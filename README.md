@@ -1,2 +1,3 @@
 # bookbot
-boot.dev course for first python project &amp; implementing in git.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
